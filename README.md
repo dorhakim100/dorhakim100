@@ -100,20 +100,22 @@ Don't get scared if you find me feeding stray cats outside office.
 
 - **MyTracker — Fitness & Nutrition (TS)**  
   PWA with barcode scanning, charts, local caching, mobile-first UX.  
-  Front: https://github.com/dorhakim100/MyTracker-Front  
-  Back:  https://github.com/dorhakim100/MyTracker-Back
+  Tech: React, TypeScript, Redux, Node/Express, MongoDB, Vite, MUI, Chart.js.
+- **Frontend Repository:** [Frontend](https://github.com/dorhakim100/MyTracker-Front)
+- **Backend Repository:** [Backend](https://github.com/dorhakim100/MyTracker-Back)
   
 - **Sport Club (Production) — Frontend**  
   CRM and E-commerce for a sports club.
   Tech: React, Redux, Node/Express, MongoDB, Vite, MUI, Socket.io, Chart.js.
-  Live: https://www.moadonsport.com/
-  Front: https://github.com/dorhakim100/Sport-Club-Front
-  Back:  https://github.com/dorhakim100/SportClub-BackEnd
+- **Live Site:** [Moadon Sport](https://moadonsport.com/)
+- **Frontend Repository:** [Frontend](https://github.com/dorhakim100/Sport-Club-Front)
+- **Backend Repository:** [Backend](https://github.com/dorhakim100/SportClub-BackEnd)
 
 - **CamJam — WebRTC video chat (TS)**  
   Multi-room live video + chat, React 18 + Vite, TS front & back.  
-  Front: https://github.com/dorhakim100/CamJam-Front  
-  Back:  https://github.com/dorhakim100/CamJam-Back
+  Tech: React, TypeScript, WebRTC, Redux, Node/Express, PostgreSQL, Redis, MongoDB, Socket.io, Vite.
+- **Frontend Repository:** [Frontend](https://github.com/dorhakim100/CamJam-Front )
+- **Backend Repository:** [Backend](https://github.com/dorhakim100/CamJam-Back)
 
 ---
 
