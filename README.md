@@ -105,7 +105,7 @@ Don't get scared if you find me feeding stray cats outside office.
   
 - **Sport Club (Production) — Frontend**  
   CRM and E-commerce for a sports club.
-  Tech: React, Redux, Node/Express, MongoDB, Vite, MUI, Socket.io, Chart.js
+  Tech: React, Redux, Node/Express, MongoDB, Vite, MUI, Socket.io, Chart.js.
   Live: https://www.moadonsport.com/
   Front: https://github.com/dorhakim100/Sport-Club-Front
   Back:  https://github.com/dorhakim100/SportClub-BackEnd
