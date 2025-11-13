@@ -36,7 +36,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" width="40" height="40" />
   </a>
 
-      <!-- Vue + Quasar -->
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" />
   </a>
@@ -85,14 +84,18 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dor-hakim/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dor-hakim/" height="30" width="40" /></a>
-</p>
+<img src="https://github.com/user-attachments/assets/1190d2e3-d552-4132-9bae-33dfd8b224d5" width="1400" height="350" />
 
 ---
 
-### 🚀 Highlighted Projects
+### Who Am I
+
+25-year-old Full Stack Developer from Israel, passionate about building real-world products and improving a little every day.  
+Don't get scared if you find me feeding stray cats outside office.
+
+---
+
+### Highlighted Projects
 
 - **MyTracker — Fitness & Nutrition (TS)**  
   PWA with barcode scanning, charts, local caching, mobile-first UX.  
@@ -111,33 +114,19 @@
   Front: https://github.com/dorhakim100/CamJam-Front  
   Back:  https://github.com/dorhakim100/CamJam-Back
 
-
 ---
 
-### 🧰 Toolbox
-React, React Native, Vue/Quasar, Node.js, Express, TypeScript, MongoDB, Socket.io, WebRTC, Vite, Redux/Pinia, Chart.js, SCSS, MUI.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 
-### 📦 What I like building
-- Real-time apps (WebRTC, sockets)
-- Production UIs with clean UX & dark mode
-- Full-stack SPAs with auth, payments, roles, dashboards
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/dor-hakim/" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
 
-### 📫 Contact
-- Email: dorhakim100@gmail.com
-- LinkedIn: https://www.linkedin.com/in/dor-hakim/
+  <!-- Email -->
+  <a href="mailto:dorhakim100@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" height="30" width="40" alt="email" />
+  </a>
 
-
-<!--
-**dorhakim100/dorhakim100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
