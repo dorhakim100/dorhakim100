@@ -3,7 +3,7 @@
 <h1 align="center">Dor Hakim · Full-Stack Developer</h1>
 
 
-<p align="left">
+<p align="left" style="display: flex; gap: 10px; justify-content: space-between; flex-wrap: wrap;">
 
   <!-- React + JS/TS -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -97,13 +97,14 @@
 
 # 📊 GitHub Stats:
 
-<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+<div style="display: flex; gap: 10px; justify-content: space-between; flex-wrap: wrap;">
 
   <img src="https://nirzak-streak-stats.vercel.app/?user=dorhakim100&theme=dark&hide_border=false" />
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorhakim100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 
 </div>
+
 
 
 ## 🏆 GitHub Trophies
