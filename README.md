@@ -96,9 +96,15 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dorhakim100&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=dorhakim100&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dorhakim100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dorhakim100&theme=dark&hide_border=false" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorhakim100&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+
+</div>
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dorhakim100&theme=radical&no-frame=false&no-bg=true&margin-w=4)
