@@ -110,27 +110,34 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dorhakim100&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
 
 # 🧑🏻‍💻 Highlighted Projects
 
-- **MyTracker - Fitness & Nutrition**  
-  PWA with barcode scanning, charts, local caching, mobile-first UX.  
-  Tech: React, TypeScript, Redux, Node/Express, MongoDB, Vite, MUI, Chart.js.
- **Frontend Repository:** [Frontend](https://github.com/dorhakim100/MyTracker-Front)
- **Backend Repository:** [Backend](https://github.com/dorhakim100/MyTracker-Back)
-  
-- **Sport Club (Production)**  
-  CRM and E-commerce for a sports club.
-  Tech: React, JavaScript, Redux, Node/Express, MongoDB, Vite, MUI, Socket.io, Chart.js.
-  **Live Site:** [Moadon Sport](https://moadonsport.com/)
-  **Frontend Repository:** [Frontend](https://github.com/dorhakim100/Sport-Club-Front)
-  **Backend Repository:** [Backend](https://github.com/dorhakim100/SportClub-BackEnd)
 
-- **CamJam - WebRTC video chat**  
-  Multi-room live video + chat, React 18 + Vite, TS front & back.  
-  Tech: React, TypeScript, WebRTC, Redux, Node/Express, PostgreSQL, Redis, MongoDB, Socket.io, Vite.
-  **Frontend Repository:** [Frontend](https://github.com/dorhakim100/CamJam-Front )
-  **Backend Repository:** [Backend](https://github.com/dorhakim100/CamJam-Back)
+### **MyTracker – Fitness & Nutrition**
+PWA with barcode scanning, charts, caching, and a mobile-first UX.  
+**Tech:** React, TypeScript, Redux, Node/Express, MongoDB, Vite, MUI, Chart.js
+
+**Frontend:** https://github.com/dorhakim100/MyTracker-Front  
+**Backend:** https://github.com/dorhakim100/MyTracker-Back
+
+### **Sport Club (Production)**
+Full CRM + E-commerce system built for a real sports club.  
+Includes bookings, payments, dashboards, chats, role management, and more.  
+**Tech:** React, JavaScript, Redux, Node/Express, MongoDB, Vite, MUI, Socket.io, Chart.js
+
+**Live Site:** https://moadonsport.com/  
+**Frontend:** https://github.com/dorhakim100/Sport-Club-Front  
+**Backend:** https://github.com/dorhakim100/SportClub-BackEnd
+
+### **CamJam – WebRTC Video Chat**
+Multi-room live video & real-time chat, built with React 18 + Vite.  
+Full TypeScript stack on both client and server.  
+**Tech:** React, TypeScript, WebRTC, Redux, Node/Express, PostgreSQL, Redis, MongoDB, Socket.io, Vite
+
+**Frontend:** https://github.com/dorhakim100/CamJam-Front  
+**Backend:** https://github.com/dorhakim100/CamJam-Back  
 
 ---
 
