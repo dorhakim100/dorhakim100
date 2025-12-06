@@ -89,9 +89,8 @@
 # 🧔🏻‍♂️ Who Am I
 
 - 25-year-old Full Stack Developer from Israel.
-- Passionate about building real-world products and improving a little every day.  
-- Labrador personality with Rocky state of mind.
-- Don't get scared if you find me feeding stray cats outside office.
+- Passionate about building real-world products and improving a little every day.
+- Strong problem solving skills.
 
 ---
 
