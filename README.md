@@ -88,7 +88,7 @@
 
 # 🧔🏻‍♂️ Who Am I
 
-- 25-year-old Full Stack Developer from Israel.
+- 26-year-old Full Stack Developer from Israel.
 - Passionate about building real-world products and improving a little every day.
 - Strong problem solving skills.
 
@@ -111,7 +111,7 @@
 
 
 ### **MyTracker – Fitness & Nutrition**
-PWA with barcode scanning, charts, caching, and a mobile-first UX.  
+PWA with barcode scanning, charts, caching. A mobile-first UX with dashboard support,.  
 **Tech:** React, TypeScript, Redux, Node/Express, MongoDB, Vite, MUI, Chart.js
 
 **Frontend:** https://github.com/dorhakim100/MyTracker-Front  
