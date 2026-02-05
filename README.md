@@ -118,8 +118,8 @@ PWA with barcode scanning, charts, caching. A mobile-first UX with dashboard sup
 **Backend:** https://github.com/dorhakim100/MyTracker-Back
 
 ### **Sport Club (Production)**
-Full CRM + E-commerce system built for a real sports club.  
-Includes bookings, payments, dashboards, chats, role management, and more.  
+Full CRM + E-commerce system built for a local sports club.  
+Includes bookings, secure payments, dashboards, chats, role management, and more.  
 **Tech:** React, JavaScript, Redux, Node/Express, MongoDB, Vite, MUI, Socket.io, Chart.js
 
 **Live Site:** https://moadonsport.com/  
