@@ -102,7 +102,6 @@
 
   <img src="https://[github-readme-stats.vercel.app/api/top-langs/?username=dorhakim100&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-contributor-stats.vercel.app/api?username=dorhakim100&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)" />
 
-  ![](https://github-contributor-stats.vercel.app/api?username=dorhakim100&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 
 </div>
