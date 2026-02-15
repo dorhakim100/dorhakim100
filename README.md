@@ -112,7 +112,7 @@
 # 🧑🏻‍💻 Highlighted Projects
 
 
-### **MyTracker – Fitness & Nutrition**
+### **MyTracker – Fitness & Nutrition (Production)**
 PWA with barcode scanning, charts, caching. A mobile-first UX with dashboard support,.  
 **Tech:** React, TypeScript, Redux, Node/Express, MongoDB, Vite, MUI, Chart.js
 
