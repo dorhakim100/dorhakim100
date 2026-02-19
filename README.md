@@ -113,16 +113,16 @@
 
 
 ### **MyTracker – Fitness & Nutrition (Production)**
-A multi client platform developed for a trainer to manage his trainees, their workouts and calories intake. The platform consists of two client sides sharing the same backend, trainer web dashboard, and mobile app. 
+A platform developed for a trainer to manage his trainees, their workouts and calories intake. The platform consists of two client sides sharing the same backend, trainer web dashboard, and mobile app.
 **Tech:** React, TypeScript, Redux, Node/Express, MongoDB, Vite, MUI, Chart.js
 
 **Frontend:** https://github.com/dorhakim100/MyTracker-Front  
 **Backend:** https://github.com/dorhakim100/MyTracker-Back
 
 ### **Sport Club (Production)**
-An e-commerce and CRM platform developed for a sport club to manage their internal workflow, classes schedule, leads and E-commerce sales.
+An E-commerce and CRM platform developed for a sport club to manage their internal workflow, classes schedule, leads and E-commerce sales.
 The platform resulted in over 300% increase in customer engagement compared to the previous system.
-Includes secure payments, dashboards, messaging, role management, and more.  
+Includes secure payments, dashboards, messaging, role management, and more.
 **Tech:** React, JavaScript, Redux, Node/Express, MongoDB, Vite, MUI, Socket.io, Chart.js
 
 **Live Site:** https://moadonsport.com/  
@@ -130,8 +130,7 @@ Includes secure payments, dashboards, messaging, role management, and more.
 **Backend:** https://github.com/dorhakim100/SportClub-BackEnd
 
 ### **CamJam – WebRTC Video Chat**
-Multi-room live video & real-time chat, built with React 18 + Vite.  
-Full TypeScript stack on both client and server.  
+Multi-room live video & real-time chat, built as a personal project to challenge myself.
 **Tech:** React, TypeScript, WebRTC, Redux, Node/Express, PostgreSQL, Redis, MongoDB, Socket.io, Vite
 
 **Frontend:** https://github.com/dorhakim100/CamJam-Front  
