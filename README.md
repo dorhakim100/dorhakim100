@@ -94,17 +94,7 @@
 
 ---
 
-# 📊 GitHub Stats:
 
-<div style="display: flex; gap: 10px; justify-content: space-between; flex-wrap: wrap;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=dorhakim100&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" />
-
-  <img src="https://[github-readme-stats.vercel.app/api/top-langs/?username=dorhakim100&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact](https://github-contributor-stats.vercel.app/api?username=dorhakim100&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)" />
-
-
-
-</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=dorhakim100&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
