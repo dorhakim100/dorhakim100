@@ -89,7 +89,7 @@
 # 🧔🏻‍♂️ Who Am I
 
 - 26-year-old Full Stack Developer from Israel.
-- Passionate about building real-world products and improving a little every day.
+- Passionate about building real-world products and improving a little bit every day.
 - Strong problem solving skills.
 
 ---
