@@ -2,7 +2,6 @@
 
 <h1 align="center">Dor Hakim · Full-Stack Developer</h1>
 
-
 <p align="left" style="display: flex; gap: 10px; justify-content: space-between; flex-wrap: wrap;">
 
   <!-- React + JS/TS -->
