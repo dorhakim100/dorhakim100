@@ -101,7 +101,6 @@
 
 # 🧑🏻‍💻 Highlighted Projects
 
-
 ### **MyTracker – Fitness & Nutrition (Production)**
 A platform developed for a trainer to manage his trainees, their workouts and calories intake. The platform consists of two client sides sharing the same backend, trainer web dashboard, and mobile app.
 **Tech:** React, TypeScript, Redux, Node/Express, MongoDB, Vite, MUI, Chart.js
