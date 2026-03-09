@@ -78,7 +78,6 @@
   <a href="https://webrtc.org/?hl=he" target="_blank" rel="noreferrer">
     <img src="https://www.gstatic.com/devrel-devsite/prod/v6ce5ad94ac0a1c072d578cadf6a262564d4db6394dfb1362f0f1b3d58402d88d/webrtc/images/touchicon-180.png" width="40" height="40" />
   </a>
-
 </p>
 
 ---
