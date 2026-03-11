@@ -96,9 +96,12 @@
 ---
 
 # 📊 GitHub Stats:
+  
+<div style:"display:flex; flex-wrap:wrap; gap:1em;">
 ![](https://github-readme-stats.vercel.app/api?username=dorhakim100&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=dorhakim100&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dorhakim100&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
 
