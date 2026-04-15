@@ -2,14 +2,14 @@
 
 <h1 align="center">Dor Hakim · Full-Stack Developer</h1>
 
-<!-- <p align="left" > -->
+ <p align="left" style="display: flex; gap: 10px; justify-content: space-between; flex-wrap: wrap;" >
 
   <!-- React + JS/TS -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-  </a>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" />
@@ -78,7 +78,9 @@
   <a href="https://webrtc.org/?hl=he" target="_blank" rel="noreferrer">
     <img src="https://www.gstatic.com/devrel-devsite/prod/v6ce5ad94ac0a1c072d578cadf6a262564d4db6394dfb1362f0f1b3d58402d88d/webrtc/images/touchicon-180.png" width="40" height="40" />
   </a>
-<!-- </p> -->
+</p>
+
+
 
 ---
 
