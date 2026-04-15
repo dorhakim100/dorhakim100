@@ -2,7 +2,7 @@
 
 <h1 align="center">Dor Hakim · Full-Stack Developer</h1>
 
-<p align="left" >
+<!-- <p align="left" > -->
 
   <!-- React + JS/TS -->
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -78,7 +78,7 @@
   <a href="https://webrtc.org/?hl=he" target="_blank" rel="noreferrer">
     <img src="https://www.gstatic.com/devrel-devsite/prod/v6ce5ad94ac0a1c072d578cadf6a262564d4db6394dfb1362f0f1b3d58402d88d/webrtc/images/touchicon-180.png" width="40" height="40" />
   </a>
-</p>
+<!-- </p> -->
 
 ---
 
