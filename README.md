@@ -2,7 +2,6 @@
 
 <h1 align="center">Dor Hakim · Full-Stack Developer</h1>
 
-
 ---
 
 <img src="https://github.com/user-attachments/assets/1190d2e3-d552-4132-9bae-33dfd8b224d5" width="1400" height="350" />
