@@ -19,15 +19,7 @@
 # 📊 GitHub Stats:
   
 <div style:"display:flex; flex-wrap:wrap; gap:1em;">
-  <img src="https://github-readme-stats.shion.dev/api?username=dorhakim100&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="streak"/>
-  <img src="https://streak-stats.demolab.com/?user=dorhakim100&theme=shadow_blue&hide_border=false" alt="streak"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dorhakim100&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="streak"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=dorhakim100&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" alt="pr"/> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dorhakim100&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most-used"/> -->
-  <!--
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dorhakim100&theme=shadow_blue&include_all_commits=true&count_private=true&layout=compact" alt="dorhakim100" />
-  -->
-
+<img src="https://streak-stats.demolab.com/?user=dorhakim100&theme=shadow_blue&hide_border=false" alt="streak" />
   
 </div>
 ---
